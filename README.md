@@ -27,11 +27,11 @@ This application provides a seamless online food ordering experience. Users can 
 
 ## Tech Stack
 
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Frontend:** React.js JavaScript
+- **Backend:** Spring boot, Spring security, Google Aouth
+- **Database:** MYSQL
 - **Authentication:** JWT
-- **Others:** REST API, Axios, Mongoose
+- **Others:** REST API, Axios
 
 ## Installation
 
